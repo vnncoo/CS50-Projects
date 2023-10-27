@@ -1,0 +1,7 @@
+initialize height and make it an integer
+
+ask for a number that represents the height of the stairs
+
+re-asks the prompt if the number given was not in between 0 - 8
+
+prints spaces and # depending on the height input of the user
