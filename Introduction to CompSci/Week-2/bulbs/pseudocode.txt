@@ -1,0 +1,8 @@
+Implement wordcount.
+<---Fuckk this is hard--->
+<---Main code--->
+Start with a for loop.
+Let's run it as long as i < wordcount.
+Then let's get the decimal value of the selected character via index.
+Then I'll make a function that converts the index into binary.
+Then the value in binary will be returned and printed with a nextline.
