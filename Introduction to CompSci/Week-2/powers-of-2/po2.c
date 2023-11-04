@@ -1,30 +1,25 @@
-#include <cs50.h>
 #include <stdio.h>
+#include <cs50.h>
 
 int main(void)
-
 {
-    int s; //size
-    int n; //number
+    int s;
 
     do
     {
-        s = get_int("Enter the Size: ");
+        s = get_int("Input Size: ");
     }
-    while (s < 1);
+    while(s < 1);
 
-    do
+    int n = 1;
+
+    printf("%i\n", n);
+
+    int a[s];
+
+    for(int i = 0; i < s - 1; i++)
     {
-        n = get_int("Enter a Number: ");
-    }
-    while (n < 1);
-
-    int a[s];  //array
-
-    for(int i = 0; i < s; i++)
-    {
-        n = (n*2);
-        a[i] = n;
+        n = n * 2;
         printf("%i\n", n);
     }
 }
