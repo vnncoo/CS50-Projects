@@ -26,9 +26,9 @@ int main(void)
             After finishing the first for loop
             The nested loop inside it will run.
             D stands for (space I changed the meaning), it makes the # stick to the right
-            the logic basically states that the terminal will print ( )
+            the logic basically states that the terminal will print ( ) blank
             if height - row - 1 is bigger than the value of d,
-            the terminal will print ( )
+            the terminal will print ( ) blank
         */
         {
             printf(" ");
