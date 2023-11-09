@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
-
+//test
 int main(void)
 {
     string text = get_string("Text: ");
