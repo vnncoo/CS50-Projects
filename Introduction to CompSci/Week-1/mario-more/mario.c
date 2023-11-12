@@ -28,3 +28,4 @@ int main(void)
         printf("\n");
     }
 }
+//If you're thinking of copying the code and then submitting it, please don't. Try to understand it first cause you won't get far if you don't try to understand basic things like this
