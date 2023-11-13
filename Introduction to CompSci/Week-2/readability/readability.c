@@ -1,4 +1,5 @@
 #include <cs50.h>
+//cs50.h is a library specific to cs50's course for your information.
 #include <ctype.h>
 #include <math.h>
 #include <stdio.h>
