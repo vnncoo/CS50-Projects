@@ -1,2 +1,2 @@
-# CS50-Projects
-My CS50 Projects
+# CS50x-Projects
+My CS50x Projects
