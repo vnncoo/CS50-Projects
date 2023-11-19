@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
-
+// " #include <cs50.h> " is exclusive for cs50x coursework
+// The library will not work outside of cs50x's codespace
 int main(void)
 {
     int s;
